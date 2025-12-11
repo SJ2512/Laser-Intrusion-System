@@ -7,7 +7,7 @@ A compact security system designed to protect a valuable item using **three inde
 
 ---
 
-## 📸 Overview
+## Overview
 
 This system uses **two LDR laser sensors** aimed at fixed points. As long as a laser beam falls on an LDR, it maintains a stable resistance.  
 If someone blocks the beam *even for a moment*, the sudden change in resistance is detected and the alarm is triggered.
@@ -19,7 +19,7 @@ This three-layer approach makes the system highly reliable for guarding small it
 
 ---
 
-## 🚀 Features
+## Features
 
 - Triple-sensor security (2× LDR + 1× IR)
 - Instant alarm trigger on:
@@ -31,20 +31,3 @@ This three-layer approach makes the system highly reliable for guarding small it
 - Runs on Arduino Nano
 
 ---
-
-## 🛠️ Tech Used
-
-- Arduino Nano  
-- LDR sensors (×2)  
-- Laser modules (×2)  
-- IR proximity sensor  
-- Active buzzer  
-- 330 ohm resistors for LEDs
-- LEDs
-- OLED display
-- 5v Fan
-- Buck Converter
-- Lithium Polymer Battery
-
----
-## 📂 Project Structure
